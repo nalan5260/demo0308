@@ -50,6 +50,7 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
+        <!-- lombok简化代码 -->
     </dependencies>
 
     <build>
