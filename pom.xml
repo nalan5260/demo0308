@@ -51,10 +51,6 @@
             <artifactId>lombok</artifactId>
         </dependency>
         <!-- lombok简化代码 -->
-        <dependency>
-            <groupId>org.springframework.data</groupId>
-            <artifactId>spring-data-redis</artifactId>
-        </dependency>
     </dependencies>
 
     <build>
